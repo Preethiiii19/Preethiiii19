@@ -89,35 +89,15 @@ Turning raw data into meaningful business decisions
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preethiiii19&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Preethiiii19&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=ffffff)
-
-</div>
-
----
-
 ## 🎯 Currently
 
 📚 Building more Data Analytics projects
+
 🔍 Looking for Data Analyst opportunities
+
 💪 Strengthening SQL & Python skills
+
 🌟 Open to collaborations & opportunities
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/preethi-m-9864a3384/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:preethiii.m1905@gmail.com)
-
-</div>
 
 ---
 
