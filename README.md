@@ -25,7 +25,7 @@ Turning raw data into meaningful business decisions
 ## 🙋‍♀️ About Me
 
 🎓 B.Sc. (Hons) Agriculture — OGPA 88.40%
-   Anbil Dharmalingam Agriculture College, Trichy
+   Anbil Dharmalingam Agricultural College & Research Institute, Trichy
 
 📊 Certified Data Analyst — DataMites
    (112 Hours | IABAC Accredited)
