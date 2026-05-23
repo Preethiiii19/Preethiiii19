@@ -1,18 +1,15 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A6B6B,100:2dd4bf&height=200&section=header&text=Preethi%20M&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:1A6B6B&height=150&section=header)
 
 </div>
 
----
-
 <div align="center">
 
-### 👋 Hi there! I'm Preethi M
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Preethi+M+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+Into+Insights+%F0%9F%9A%80;Python+%7C+SQL+%7C+Excel+%7C+Power+BI" />
+</div>
 
-🎯 Aspiring Data Analyst | 📍 Tamil Nadu, India
-
-Turning raw data into meaningful business decisions
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethi-m-9864a3384/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethiii.m1905@gmail.com)
