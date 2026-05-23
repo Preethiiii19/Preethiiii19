@@ -1,94 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Preethi+M+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+Into+Business+Insights+%F0%9F%9A%80;Python+%7C+SQL+%7C+Excel+%7C+Power+BI" />
-
-<br><br>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="900px">
-
-<div align="centre" style="background-color:#0d0d0d;padding:30px;border-radius:20px;">
-
-# Preethi M
-
-### 🎯 Aspiring Data Analyst | 📍 Tamil Nadu, India
-
-<br>
-
-![Degree](https://img.shields.io/badge/🌿%20B.Sc%20Agriculture%20—%2088.40%25-1f1f1f?style=for-the-badge)
-
-![Certified](https://img.shields.io/badge/📊%20Certified%20Data%20Analyst-1f1f1f?style=for-the-badge)
-
-![Intern](https://img.shields.io/badge/💼%20Intern%20@%20Rubix%202026-1f1f1f?style=for-the-badge)
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/preethi-m-9864a3384/">
-<img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Preethiiii19">
-<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:preethiii.m1905@gmail.com">
-<img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="220px">
-
-# 4+
-
-Projects
-
-</td>
-
-<td align="center" width="220px">
-
-# 112h
-
-Training
-
-</td>
-
-<td align="center" width="220px">
-
-# 88.4%
-
-OGPA
-
-</td>
-
-<td align="center" width="220px">
-
-# 5+
-
-Tools
-
-</td>
-
-</tr>
-</table>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A6B6B,100:2dd4bf&height=200&section=header&text=Preethi%20M&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=22)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF6NDB3dWY0MGl4YmV0bnh4dGlyN2hxd3dwMjY3NXl5MjF4N3hjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
+<div align="center">
+
+### 👋 Hi there! I'm Preethi M
+
+🎯 Aspiring Data Analyst | 📍 Tamil Nadu, India
+
+Turning raw data into meaningful business decisions
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethi-m-9864a3384/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethiii.m1905@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Preethiiii19)
+
+</div>
+
+---
 
 ## 🙋‍♀️ About Me
 
@@ -171,6 +103,6 @@ Tools
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:404a49,100:0d0d0d&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:1A6B6B&height=100&section=footer)
 
 </div>
