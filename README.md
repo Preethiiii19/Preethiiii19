@@ -1,108 +1,133 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A6B6B,100:2dd4bf&height=200&section=header&text=Preethi%20M&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=22)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Preethi+M+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+Into+Insights+%F0%9F%9A%80;Python+%7C+SQL+%7C+Power+BI" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Data%20Analytics%20Portfolio&fontSize=40&fontColor=14B8A6&animation=fadeIn" />
 
 </div>
 
 ---
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF6NDB3dWY0MGl4YmV0bnh4dGlyN2hxd3dwMjY3NXl5MjF4N3hjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
+
+# 💫 About Me
+
+🎓 B.Sc. (Hons) Agriculture — **OGPA 88.40%**  
+📍 Tamil Nadu, India  
+
+💼 Data Analytics Intern @ **Rubix (2026)**  
+
+📊 Certified Data Analyst — **DataMites (IABAC)**  
+
+🌱 Currently learning:
+- Advanced SQL
+- Machine Learning
+- Dashboard Storytelling
+
+💡 I enjoy transforming raw datasets into  
+clear business insights and interactive dashboards.
+
+📫 **Reach Me:**  
+📧 preethiii.m1905@gmail.com
+
+---
+
+# 🌐 Connect With Me
+
 <div align="center">
 
-### 👋 Hi there! I'm Preethi M
+<a href="https://www.linkedin.com/in/preethi-m-9864a3384/">
+<img src="https://img.shields.io/badge/LinkedIn-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🎯 Aspiring Data Analyst | 📍 Tamil Nadu, India
+<a href="mailto:preethiii.m1905@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Turning raw data into meaningful business decisions
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethi-m-9864a3384/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethiii.m1905@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Preethiiii19)
+<a href="https://github.com/Preethiiii19">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
+# ⚡ Tech Stack
 
-🎓 B.Sc. (Hons) Agriculture — OGPA 88.40%
-   Anbil Dharmalingam Agricultural College & Research Institute, Trichy
+<div align="center">
 
-📊 Certified Data Analyst — DataMites
-   (112 Hours | IABAC Accredited)
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
 
-💼 Data Analytics Intern @ Rubix (2026)
+<br><br>
 
-🌱 Currently learning advanced SQL & 
-   building data projects
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-💡 Passionate about finding stories 
-   hidden in data
+<br><br>
 
-📫 preethiii.m1905@gmail.com
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
 
----
-
-## 🛠️ Tools & Technologies
-
-### 💻 Programming & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 📊 Data Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🐍 Python Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Other Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Tools | Type |
-|---------|-------|------|
-| [🛍️ Customer Segmentation Analysis](https://github.com/Preethiiii19/Customer_Segmentation_Analysis) | Python, K-Means, Power BI | Client Project |
-| [📊 CSAT Analysis](https://github.com/Preethiiii19/CSAT_Analysis) | Power BI, Power Query, DAX | Capstone |
-| [📈 Profit Analysis - Multiple Linear Regression](https://github.com/Preethiiii19/Profit_Prediction_Regression) | Python, Scikit-learn, Power BI | Capstone |
-| [💳 UPI Payment Behaviour Analysis](https://github.com/Preethiiii19/UPI_Payment_Analysis) | Excel, Statistics | Research |
+<div align="center">
 
----
+| 💼 Project | 🛠️ Tools | 🔗 Link |
+|---|---|---|
+| 🛍️ Customer Segmentation | Python, K-Means, Power BI | [View Project](https://github.com/Preethiiii19/Customer_Segmentation_Analysis) |
+| 📊 CSAT Analytics Dashboard | Power BI, DAX | [View Project](https://github.com/Preethiiii19/CSAT_Analysis) |
+| 📈 Profit Prediction Regression | Python, ML | [View Project](https://github.com/Preethiiii19/Profit_Prediction_Regression) |
+| 💳 UPI Payment Behaviour | Excel, Statistics | [View Project](https://github.com/Preethiiii19/UPI_Payment_Analysis) |
 
-## 🏆 Certifications
-
-| Certificate | Issuer | Year |
-|-------------|--------|------|
-| ✅ Certified Data Analyst | DataMites (IABAC) | 2026 |
-| ✅ Natural Resource Management | SWAYAM - NPTEL | 2024 |
-| ✅ AI & Internet Tools Workshop | Captsee Design Studio | 2024 |
+</div>
 
 ---
 
-## 🎯 Currently
+# 🏆 Certifications
 
-📚 Building more Data Analytics projects
+✨ Certified Data Analyst — **DataMites (IABAC)**  
+✨ Natural Resource Management — **NPTEL**  
+✨ AI & Internet Tools Workshop — **Captsee Design Studio**
 
-🔍 Looking for Data Analyst opportunities
+---
 
-💪 Strengthening SQL & Python skills
+# 📈 GitHub Stats
 
-🌟 Open to collaborations & opportunities
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Preethiiii19&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Preethiiii19&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Preethiiii19&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+🚀 Build strong portfolio projects  
+📚 Improve SQL & Machine Learning skills  
+💼 Looking for Data Analyst opportunities  
+🤝 Open to collaborations
 
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:1A6B6B&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:14B8A6&height=120&section=footer"/>
 
 </div>
