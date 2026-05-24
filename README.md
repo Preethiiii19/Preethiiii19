@@ -17,6 +17,14 @@
 
 </div>
 
+<div align="center">
+
+| 🗂️ Projects | ⏱️ Training | 🎓 OGPA | 🛠️ Tools |
+|:-----------:|:----------:|:-------:|:--------:|
+| 4+ | 112h | 88.4% | 5+ |
+
+</div>
+
 ---
 
 ## 🙋‍♀️ About Me
