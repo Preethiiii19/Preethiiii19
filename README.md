@@ -80,6 +80,7 @@
 | [🛍️ Customer Segmentation Analysis](https://github.com/Preethiiii19/Customer_Segmentation_Analysis) | Python, K-Means, Power BI | Client Project |
 | [📊 CSAT Analysis](https://github.com/Preethiiii19/CSAT_Analysis) | Power BI, Power Query, DAX | Capstone |
 | [📈 Profit Analysis - Multiple Linear Regression](https://github.com/Preethiiii19/Profit_Prediction_Regression) | Python, Scikit-learn, Power BI | Capstone |
+| [🌾 Indian Agriculture — Crop Yield Analysis](https://github.com/Preethiiii19/Agriculture_Crop_Yield_Analysis) | MySQL, Power BI | Capstone |
 | [💳 UPI Payment Behaviour Analysis](https://github.com/Preethiiii19/UPI_Payment_Analysis) | Excel, Statistics | Research |
 
 ---
