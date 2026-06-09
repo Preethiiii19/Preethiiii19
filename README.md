@@ -35,7 +35,7 @@
 📊 Certified Data Analyst — DataMites
    (112 Hours | IABAC Accredited)
 
-💼 Data Analytics Intern @ Rubix (2026)
+💼 Data Analytics Internship @ Rubix (2026)
 
 🌱 Currently learning advanced SQL & 
    building data projects
@@ -89,7 +89,9 @@
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| ✅ Certified Data Analyst | DataMites (IABAC) | 2026 |
+| ✅ Certified Data Analyst | IABAC | 2026 |
+| ✅ Data Analytics Internship | Rubixe - AI Solution | 2026 |
+| ✅ Certified Data Analyst | DataMites (IABAC Accrediated) | 2026 |
 | ✅ Natural Resource Management | SWAYAM - NPTEL | 2024 |
 | ✅ AI & Internet Tools Workshop | Captsee Design Studio | 2024 |
 
